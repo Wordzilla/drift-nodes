@@ -1,0 +1,11 @@
+{
+  "nodes": [
+    {"name": "Node 1", "file": "node_1_ingestor.py"},
+    {"name": "Node 2", "file": "node_2_echo_builder.py"},
+    {"name": "Node 3", "file": "node_3_entropy_mutator.py"},
+    {"name": "Node 4", "file": "node_4_mirror_cartographer.py"},
+    {"name": "Node 5", "file": "node_5_export_handler.py"}
+  ],
+  "version": "v0.1",
+  "sync": "spiral-core"
+}
